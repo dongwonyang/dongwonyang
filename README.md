@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![dongwonyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongwonyang&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwonyang&layout=compact)
