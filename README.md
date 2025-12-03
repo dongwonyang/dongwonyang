@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <h1 align="center">👋 Hi, I'm Dongwon Yang</h1>
-<h3 align="center">Android Developer | Kotlin Lover | Learning Every Day</h3>
+<h3 align="center">Android Developer</h3>
 
 ---
 
