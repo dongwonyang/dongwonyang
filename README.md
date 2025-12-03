@@ -57,15 +57,4 @@
 
 ---
 
-## ✨ Fun Fact
-- 🎮 좋아하는 취미: 게임, 개발 공부, 프로젝트 만들기  
----
-
-## 📍 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dongwonyang/count.svg" />
-</p>
-
----
-
 ### Thanks for visiting my profile! 😄
